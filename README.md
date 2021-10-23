@@ -45,8 +45,6 @@ The project repository you had created would have :
 
 **README.md** - This file is must included to get good understanding of the project Elaborate it briefly about how it works using README.
 
-**requirements.txt** - In this file, you should add all the libraries you had included in your project 
-
 **Images** - This folder would have all images added, be it screenshots or step by step process images.
 
 **Related files** - The other additional and related files would be added up in "Related" folder.
