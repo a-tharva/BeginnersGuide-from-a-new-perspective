@@ -14,16 +14,17 @@
 
 <h2>Repository</h2>
 
-A Curated Collection of **Weird codes** Scripts that will make you question why.
+A Curated Collection of **Beginners Guide** that will help you start with programming.
 
-Submit your weirdest codes which perform simple task in a compilcated way.
+Contribute in creating a guide for beginners starting to code.
+
 
 
 <h2>Join Here</h2>
 
 Anyone related to technology who is looking to contribute to open-source is all invited to hop in. This place has a task for everyone.
 
-When raising an issue, do make sure to mention the kind of script, project title, short description of the project and how would you expect it to work. As a good practice, always link the issue number with pull request. (#issue number : Give this details when you raise a PR).
+When raising an issue, do make sure to mention the kind of edit, short description of the project. As a good practice, always link the issue number with pull request. (#issue number : Give this details when you raise a PR).
 
 If you worked on or want to initiate a unique project and share it with the world, you can do that here. Go through the contributing guidelines in [CONTRIBUTING](https://github.com/a-tharva/BeginnersGuide-from-a-new-perspective/blob/master/CONTRIBUTING.md)
 
@@ -37,13 +38,11 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 Your projects should contain this flow to maintain similarity across all other projects. Make sure to note these things, before you create a PR.
 
-Create a folder of your project title. 
+Create a folder of your language or technology title. 
 
 The project repository you had created would have :
 
-**file_name.py** - This python file is the project you have worked upon.
-
-**README.md** - This file is must included to get good understanding of the project Elaborate it briefly about how it works using README.
+**README.md** - This file is must included to get good understanding of the language Elaborate it briefly about how it works using README.
 
 **Images** - This folder would have all images added, be it screenshots or step by step process images.
 
@@ -54,8 +53,6 @@ The project repository you had created would have :
 
 * If you want to contribute the script, it's preferable that you create a new issue before making a PR and link your PR to that issue.
 * If you have modified/added code, make sure the code compiles before submitting.
-* Strictly use snake_case (underscore_separated) in your file_name and push it in the correct folder.
-* Add Screenshots to help us know what this Script is all about.
 * Do not update the **[README.md](https://github.com/a-tharva/BeginnersGuide-from-a-new-perspective/blob/master/README.md).**
 
 
