@@ -8,7 +8,7 @@ I'm happy to welcome all the contributions from anyone willing to add new script
 
 ## Before Contributing
 
-Welcome to [a-tharva/Weird-codes](https://github.com/a-tharva/BeginnersGuide-from-a-new-perspective/). Before sending your pull requests, make sure that you **read the whole guidelines**. If you have any doubt on the contributing guide, please feel free to reach out.
+Welcome. Before sending your pull requests, make sure that you **read the whole guidelines**. If you have any doubt on the contributing guide, please feel free to reach out.
 
 
 ## Contribution
@@ -48,7 +48,7 @@ Following are the steps to guide you:
 
 > - Do not edit/delete someone else's code in this repository. You can only insert new files/folder in this repository.
 
-> - Give a meaningful name to whatever file or folder you are adding, for e.g., if you have written a Python code on Hello World, then hello_world.py is one example of valid name.
+> - Give a meaningful name to whatever file or folder you are adding.
 
 
 ## What should I keep in mind while contributing?
