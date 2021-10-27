@@ -42,7 +42,7 @@ Create a folder of your language or technology title.
 
 The project repository you had created would have :
 
-**README.md** - This file is must included to get good understanding of the language Elaborate it briefly about how it works using README.
+**[README.md](https://github.com/a-tharva/BeginnersGuide-from-a-new-perspective/blob/master/.github/readme_template.md)** - This file is must included to get good understanding of the language Elaborate it briefly about how it works using README.
 
 **Images** - This folder would have all images added, be it screenshots or step by step process images.
 
