@@ -21,13 +21,13 @@ Any contribution is accepted, from fixing grammatical mistakes to implementing c
 Following are the steps to guide you:
 
 * Step 1: Fork the repo and Go to your Git terminal and  clone it on your machine.
-* Step 2: Add a upstream link to main branch in your cloned repo
+* Step 2: Add a upstream link to master branch in your cloned repo
     ```
     git remote add upstream https://github.com/a-tharva/BeginnersGuide-from-a-new-perspective.git
     ```
 * Step 3: Keep your cloned repo upto date by pulling from upstream (this will also avoid any merge conflicts while committing new changes)
     ```
-    git pull upstream main https://github.com/a-tharva/BeginnersGuide-from-a-new-perspective.git
+    git pull upstream master https://github.com/a-tharva/BeginnersGuide-from-a-new-perspective.git
     ```
 * Step 4: Create your feature branch (This is a necessary step, so don't skip it)
     ```
